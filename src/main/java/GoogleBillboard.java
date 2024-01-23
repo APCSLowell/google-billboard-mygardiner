@@ -31,11 +31,6 @@ public class GoogleBillboard {
     else
       return false;
   }
-
-  public static void main(String[] args) {
-    GoogleBillboard googleBillboard = new GoogleBillboard();
-    googleBillboard.setup();
-  }
 }
 
 
